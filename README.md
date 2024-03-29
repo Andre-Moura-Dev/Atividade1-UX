@@ -1,5 +1,3 @@
-# Atividade1-UX
-
 ## Painel de Controle da impressora 3D
 
 ![imagem](https://github.com/Andre-Moura-Dev/Atividade1-UX/blob/main/Painel%20Impressora.png)
