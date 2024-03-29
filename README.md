@@ -1,3 +1,6 @@
 # Atividade1-UX
 
 ## Painel de Controle da impressora 3D
+
+Painel de Controle tem como objetivo selecionar qual prato será impresso em 3D.
+- Funcionamento: Selecione um prato e depois clique em "enviar", uma barra de progresso aparecerá monstrando o progresso atual da impressão, junto com um botão para pausar e outro para cancelar.
